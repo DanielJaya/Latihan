@@ -1,4 +1,3 @@
 # Latihan 
 =========
-Latihan buat readme git
-Tugas PDTI
+Latihan Submission Awal
